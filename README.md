@@ -15,3 +15,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter_unit_testing
+
+All made possible with AI-powered coding CODEIUM
+
+visit https://codeium.com/ for more info.
+
+<img src="https://codeium.com/profile/racially-beaming-pike-95566/card.png" width="500" />
